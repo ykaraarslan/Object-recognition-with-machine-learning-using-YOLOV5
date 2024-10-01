@@ -12,3 +12,5 @@ First, clone the official YOLOv5 repository from GitHub:
 git clone https://github.com/ultralytics/yolov5.git
 cd yolov5
 pip install -r requirements.txt
+![resim1](https://github.com/user-attachments/assets/642e0da9-ca8d-498d-b520-0f3f3dee7db5)
+![train_batch1](https://github.com/user-attachments/assets/d0f3dcb1-2012-4c21-8df9-7a7f516a2741)
